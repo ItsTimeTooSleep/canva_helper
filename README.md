@@ -1,9 +1,9 @@
 # Canva Helper Plugin
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.2.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/Release-2025年9月-green.svg" alt="Release Date">
-  <img src="https://img.shields.io/badge/有效期至-2025年10月1日-red.svg" alt="Expiry">
+  <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-2025年10月-green.svg" alt="Release Date">
+  <img src="https://img.shields.io/badge/有效期至-2025年11月1日-red.svg" alt="Expiry">
   <img src="https://img.shields.io/badge/Chrome%2FEdge-88.0%2B-orange.svg" alt="Browser Support">
 </p>
 
@@ -18,9 +18,9 @@
 
 | 项目 | 详情 |
 | :--- | :--- |
-| **当前版本** | `1.2.0` |
-| **发布日期** | `2025年9月` |
-| **有效期至** | **<font color="red">2025年10月1日</font>**（到期后需更新版本） |
+| **当前版本** | `1.2.1` |
+| **发布日期** | `2025年10月` |
+| **有效期至** | **<font color="red">2025年11月1日</font>**（到期后需更新版本） |
 | **系统要求** | Chrome/Edge 浏览器 88.0 或更高版本 |
 
 > 💡 **提示:** Edge 浏览器与 Google Chrome 浏览器内核相同，本插件在两者上均可正常运行。
