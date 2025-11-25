@@ -1,9 +1,9 @@
 # Canva Helper Plugin
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/Release-2025年10月-green.svg" alt="Release Date">
-  <img src="https://img.shields.io/badge/有效期至-2025年11月1日-red.svg" alt="Expiry">
+  <img src="https://img.shields.io/badge/Version-1.3.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-2025年11月25日-green.svg" alt="Release Date">
+  <img src="https://img.shields.io/badge/有效期至-2025年12月31日-red.svg" alt="Expiry">
   <img src="https://img.shields.io/badge/Chrome%2FEdge-88.0%2B-orange.svg" alt="Browser Support">
 </p>
 
@@ -18,9 +18,9 @@
 
 | 项目 | 详情 |
 | :--- | :--- |
-| **当前版本** | `1.2.1` |
-| **发布日期** | `2025年10月` |
-| **有效期至** | **<font color="red">2025年11月1日</font>**（到期后需更新版本） |
+| **当前版本** | `1.3.0` |
+| **发布日期** | `2025年11月25日` |
+| **有效期至** | **<font color="red">2025年12月31日</font>**（到期后需更新版本） |
 | **系统要求** | Chrome/Edge 浏览器 88.0 或更高版本 |
 
 > 💡 **提示:** Edge 浏览器与 Google Chrome 浏览器内核相同，本插件在两者上均可正常运行。
@@ -64,7 +64,7 @@
 ## ⚠️ 重要注意事项
 
 > 🔔 **版本更新：**
-> 本版本将于 **<font color="red">2025年10月1日</font>** 到期失效，到期前请务必从 GitHub 发布页面下载最新版本，过期版本将无法正常使用。
+> 本版本将于 **<font color="red">2025年12月31日</font>** 到期失效，到期前请务必从 GitHub 发布页面下载最新版本，过期版本将无法正常使用。
 
 ### 使用规范
 - ✅ 请遵守 Canva 平台用户协议
@@ -89,8 +89,8 @@
 | 档位 | 价格 | 福利 |
 | :--- | :--- | :--- |
 | **☕ 咖啡订阅** | ¥8/月 | 衷心感谢 + 支持者列表留名 |
-| **⚡ 加速助推** | ¥18/月 | 优先问题解答 + <br>**包含所有低档权益** |
-| **🤝 核心伙伴** | ¥38/月 | 插件内致谢 + 新版本抢先体验 + <br>项目首页专属留言 + 影响开发优先级 + <br>**包含所有低档权益** |
+| **⚡ 加速助推** | ¥18/月 | 优先问题解答 + 抢先体验新版本 + <br>**包含所有低档权益** |
+| **🤝 核心伙伴** | ¥38/月 | 项目首页50字专属留言 + 影响开发优先级 + 可为其他用户申请新版本优先测试资格 +<br>**包含所有低档权益** |
 
 > 💡 **请注意：** 插件本身可是完全免费的哟！赞助主要是为了回馈热心的用户们，核心用途就是插件的开发与维护，让它变得越来越好，陪伴大家更久呀！
 
